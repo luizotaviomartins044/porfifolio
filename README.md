@@ -1,7 +1,7 @@
 <h1 align="center">Olá eu sou o Luiz Otávio</h1>
 
 <p align="center">
-  <a href="mailto:martnsluiz5@gmail.com@gmail.com">
+  <a href="mailto:martnsluiz5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-otavio-martins">
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre mim
 
-Sou Analista de Dados com experiência prática em SQL (PostgreSQL), atuando na extração, tratamento e análise de dados em ambientes corporativos.
+Sou Analista de Dados com experiência prática em SQL (PostgreSQL), atuando na extração, tratamento e análise de dados em ambientes corporativos, com foco em geração de insights e apoio à tomada de decisão.
 
 Tenho vivência com consultas complexas aplicadas a regras de negócio reais, incluindo cenários financeiros, consolidação de dados e apoio à tomada de decisão.
 
@@ -23,6 +23,7 @@ Também possuo background em infraestrutura e suporte técnico (N2/N3), o que me
 
 ### 📊 Análise de Dados
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge)
 
@@ -35,6 +36,8 @@ Também possuo background em infraestrutura e suporte técnico (N2/N3), o que me
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 ### 💻 Linguagens de Programação
@@ -58,8 +61,10 @@ Também possuo background em infraestrutura e suporte técnico (N2/N3), o que me
 
 ## 💻 Projetos
 
-📌 Em breve: Projetos de análise de dados com SQL e Power BI  
+📌 Em construção: Projetos de análise de dados com SQL e Power BI  
 📊 Foco em análise de dados financeiros e geração de insights  
+
+🚧 Primeiro projeto em desenvolvimento...
 
 
 ## 🌱 Atualmente
